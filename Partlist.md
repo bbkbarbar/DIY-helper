@@ -9,7 +9,9 @@ Used modules:
 
 Other parts:
 
-| Name, value | type   | quantity | note                   |
-| :---------- | :----- | :------: | :--------------------- |
-| Push button |        | ?        |                        |
-| Transistor  |        | 1        | To turn on/off pointer |
+| Name, value        | type   | quantity | note                       |
+| :----------------- | :----- | :------: | :------------------------: |
+| Push button        |        | ?        |                            |
+| Transistor         |        | 1        | To turn on/off pointer     |
+| Battery connector  |        | 1        | (planned battery type: 9V) |
+| Battery            |        | 1        | 9V                         |
