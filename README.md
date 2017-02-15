@@ -12,7 +12,7 @@
  - Area calculation (can select display unit (cm2 or m2 -usefull for wall painting-))
 
 ### ToDo list:
-- [ ] Clarify / finalyze planned features
+- [x] Clarify / finalyze planned features
 - [ ] Create test circuits on bread-boards for handling multiple buttons on 1 ADC input
 - [ ] Try out to use multiple buttons in 1 ADC line
 - [ ] Create schematic according to the planned features (e.g.: count of push-buttons)
