@@ -21,9 +21,7 @@
 - [ ] Create test circuits on bread-boards for complete project
 - [ ] Create plans for "UI"
 - [ ] Create the "RC"-version from firmware
-
-After first working bread-board prototype:
-
+- [ ] <b>After first working bread-board prototype:</b>
 - [ ] Create case-design
 - [ ] Decide about used materials
 - [ ] Build final version in proper case.
