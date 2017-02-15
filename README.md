@@ -23,6 +23,7 @@
 - [ ] Create the "RC"-version from firmware
 
 After first working bread-board prototype:
+
 - [ ] Create case-design
 - [ ] Decide about used materials
 - [ ] Build final version in proper case.
