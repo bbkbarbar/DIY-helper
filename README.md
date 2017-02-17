@@ -11,6 +11,10 @@
     - Can "store" the position and measure distance from that point
  - Area calculation (can select display unit (cm2 or m2 -usefull for wall painting-))
 
+### Used libraries:
+ - For handling more push-buttons on 1 single ADC input: [ButtonHandler-library](https://bbkbarbar.github.io/Arduino-ButtonHandler-library/)
+ - For handling OLED display over softSpi bus: [SSD1306Ascii-library](https://github.com/bbkbarbar/Arduino-SSD1306Ascii)
+
 ### ToDo list:
 - [x] Clarify / finalyze planned features
 - [x] Create test circuits on bread-boards for handling multiple buttons on 1 ADC input
