@@ -13,7 +13,7 @@
 
 ### ToDo list:
 - [x] Clarify / finalyze planned features
-- [ ] Create test circuits on bread-boards for handling multiple buttons on 1 ADC input
+- [x] Create test circuits on bread-boards for handling multiple buttons on 1 ADC input
 - [ ] Try out to use multiple buttons in 1 ADC line
 - [ ] Create schematic according to the planned features (e.g.: count of push-buttons)
 - [ ] Create PCB design
