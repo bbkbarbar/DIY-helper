@@ -15,6 +15,10 @@
  - For handling more push-buttons on 1 single ADC input: [ButtonHandler-library](https://bbkbarbar.github.io/Arduino-ButtonHandler-library/)
  - For handling OLED display over softSpi bus: [SSD1306Ascii-library](https://github.com/bbkbarbar/Arduino-SSD1306Ascii)
 
+### Custom modules:
+ - Main board (as arduino nano shield) [schematic](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board.png), [pcb design](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board_pcb.png)
+ - Button board schematic, pcb design
+
 ### ToDo list:
 - [x] Clarify / finalyze planned features
 - [x] Create test circuits on bread-boards for handling multiple buttons on 1 ADC input
