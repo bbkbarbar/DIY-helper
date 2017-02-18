@@ -14,6 +14,7 @@
 ### Used libraries:
  - For handling more push-buttons on 1 single ADC input: [ButtonHandler-library](https://bbkbarbar.github.io/Arduino-ButtonHandler-library/)
  - For handling OLED display over softSpi bus: [SSD1306Ascii-library](https://github.com/bbkbarbar/Arduino-SSD1306Ascii)
+ - For handling HC-SR04 distance sensor: [HC-SR04 library](https://github.com/bbkbarbar/Arduino-HC-SR04-library)
 
 ### Custom modules:
  - Main board (as arduino nano shield) [schematic](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board.png), [pcb design](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board_pcb.png)
