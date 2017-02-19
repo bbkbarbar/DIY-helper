@@ -25,9 +25,9 @@
 - [x] Create test circuits on bread-boards for handling multiple buttons on 1 ADC input
 - [x] Try out to use multiple buttons in 1 ADC line
 - [x] Create schematic for main board
-- [ ] Create schematic for button board according to the planned features (e.g.: count of push-buttons)
+- [x] Create schematic for button board according to the planned features (e.g.: count of push-buttons)
 - [x] Create PCB design for main board
-- [ ] Create PCB design for button board
+- [x] Create PCB design for button board
 - [ ] Finalyze part-list and buy missing parts (if there any)
 - [ ] Create test circuits on bread-boards for complete project
 - [ ] Create plans for "UI"
