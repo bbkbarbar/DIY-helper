@@ -18,7 +18,7 @@
 
 ### Custom modules:
  - Main board (as arduino nano shield) [schematic](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board.png), [pcb design](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board_pcb.png)
- - Button board schematic, pcb design
+ - Button board [schematic](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/button_board.png), [pcb design](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/button_board_pcb.png)
 
 ### ToDo list:
 - [x] Clarify / finalyze planned features
