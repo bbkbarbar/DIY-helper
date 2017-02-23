@@ -17,8 +17,8 @@
  - For handling HC-SR04 distance sensor: [HC-SR04 library](https://bbkbarbar.github.io/Arduino-HC-SR04-library/)
 
 ### Custom modules:
- - Main board (as arduino nano shield) [schematic](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board.png), [pcb design](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board_pcb.png)
- - Button board [schematic](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/button_board.png), [pcb design](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/button_board_pcb.png)
+ - Main board (as arduino nano shield) [schematic](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board.png), [pcb design](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/mail_board_pcb.png), [pcb design as .pdf](https://github.com/bbkbarbar/DIY-helper/raw/master/Eagle/DIY_tool_-_Arduino_nano_shield_pcb_v1.1.pdf)
+ - Button board [schematic](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/button_board.png), [pcb design](https://github.com/bbkbarbar/DIY-helper/blob/master/Docs/button_board_pcb.png), [pcb design as .pdf](https://github.com/bbkbarbar/DIY-helper/raw/master/Eagle/DIY_tool_-_button_panel_pcb_v1.pdf)
 
 ### ToDo list:
 - [x] Clarify / finalyze planned features
